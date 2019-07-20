@@ -8,7 +8,7 @@ We don't care if you break things. This is a playground and we encourage failing
 ## 4 Step guide to get started:
 **1**. Read the wonderful [**GitHub For Beginners Guide**](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/) and [**Basic Git WorkFlow**](https://guides.github.com/introduction/flow/index.html) to get you started using **Git** and **GitHub**
 
-**2**. Make your first Pull Request (Free how-to tutorial at http://makeapullrequest.com/  by adding your name to the [**CONTRIBUTORS.md**](CONTRIBUTORS.MD) file in the start-here-guidelines project. (You can also use [this walkthrough](https://github.com/Roshanjossey/first-contributions) as a reference)
+**2**. Make your first Pull Request (Free how-to tutorial at http://makeapullrequest.com/  by adding your name to the [**CONTRIBUTORS.md**](CONTRIBUTORS.md) file in the start-here-guidelines project. (You can also use [this walkthrough](https://github.com/Roshanjossey/first-contributions) as a reference)
 
 **3**. Go join a project and start contributing or create your own group project. Don't be shy and enjoy creating things together!
 
