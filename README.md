@@ -8,9 +8,50 @@ We don't care if you break things. This is a playground and we encourage failing
 ## 4 Step guide to get started:
 **1**. Read the wonderful [**GitHub For Beginners Guide**](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/) and [**Basic Git WorkFlow**](https://guides.github.com/introduction/flow/index.html) to get you started using **Git** and **GitHub**
 
-**2**. Make your first Pull Request (Free how-to tutorial at http://makeapullrequest.com/  by adding your name to the [**CONTRIBUTORS.md**](CONTRIBUTORS.md) file in the start-here-guidelines project. (You can also use [this walkthrough](https://github.com/Roshanjossey/first-contributions) as a reference)
+**2**. Make sure you have **Git** installed on your computer. If not, visit [**here**](https://git-scm.com/downloads) and get Git for you operating system.
 
-**3**. Go join a project and start contributing or create your own group project. Don't be shy and enjoy creating things together!
+**2**. Make your first Pull Request (Free how-to tutorial at http://makeapullrequest.com/  by adding your name to the [**CONTRIBUTORS.md**](CONTRIBUTORS.md) file here. (You can also use [**this walkthrough**](https://github.com/Roshanjossey/first-contributions) as a reference).
+
+**Or you can simply follow the instructions below:**
+
+
+- Fork this Repository [**here**](https://github.com/Abia-Community/Welcome/fork)
+ 
+- Open your command line tool (bash, powerpoint, terminal, etc...), clone the forked Repository using this command <br>
+`git clone https://github.com/Your-GitHub-Username/Welcome.git`
+note: replace `Your-GitHub-Username` with your own username on GitHub
+
+- `cd` into the cloned directory/folder from your terminal `cd Welcome`
+
+- Create a new branch: `git checkout -b branch-name` 
+
+    for example: `git checkout -b add-UcheSylvester`
+
+- Open the cloned directory/folder in your Code Editor (*VS Code, Sublime Text, Bracket, etc...*)
+
+- Find the [**Contributors List**](CONTRIBUTORS.md) and add your name following this format: <br>
+`[**@Your-GitHub-Username**](https://github.com/your-github-username)`
+
+    for example: <br> `[**@Your-GitHub-Username**](https://github.com/your-github-username)`
+
+- From your terminal, add these changes to the branch you just created: `git add .`
+
+- Now *commit* the changes using the `git commit` command:
+
+    `git commit -m 'add <your-name> to contributors list'`
+
+- Now push the changes to GitHub: `git push origin branch-name`
+    
+    for example: `git push origin add-UcheSylvester`
+
+- Visit the Repository on GitHub, you should see this: 
+
+    ![compare-and-pull](compare-pull.png)
+
+    click on the **compare and pull request** button and follow the instructions to open a Pull Request ([*what is a Pull Request?*](https://help.github.com/en/articles/about-pull-requests))
+
+**3**. **Hurray!!!!** You have made your first contribution and we will be merging it soon!
+Go join a project and start contributing or create your own group project. Don't be shy and enjoy creating things together❕
 
  
 ## Anatomy of an open source project
