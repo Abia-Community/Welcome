@@ -5,12 +5,12 @@
 ## One rule of this community:
 We don't care if you break things. This is a playground and we encourage failing often. Use this as a practice ground and enjoy contributing to projects you create with your fellow community members. Many professionals have gained real world experience by working on open source projects and we can't wait to see you grow!
 
-## 4 Step guide to get started:
+## Step guide to get started:
 **1**. Read the wonderful [**GitHub For Beginners Guide**](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/) and [**Basic Git WorkFlow**](https://guides.github.com/introduction/flow/index.html) to get you started using **Git** and **GitHub**
 
 **2**. Make sure you have **Git** installed on your computer. If not, visit [**here**](https://git-scm.com/downloads) and get Git for you operating system.
 
-**2**. Make your first Pull Request (Free how-to tutorial at http://makeapullrequest.com/  by adding your name to the [**CONTRIBUTORS.md**](CONTRIBUTORS.md) file here. (You can also use [**this walkthrough**](https://github.com/Roshanjossey/first-contributions) as a reference).
+**3**. Make your first Pull Request (Free how-to tutorial at http://makeapullrequest.com/  by adding your name to the [**CONTRIBUTORS.md**](CONTRIBUTORS.md) file here. (You can also use [**this walkthrough**](https://github.com/Roshanjossey/first-contributions) as a reference).
 
 **Or you can simply follow the instructions below:**
 
@@ -50,7 +50,7 @@ note: replace `Your-GitHub-Username` with your own username on GitHub
 
     click on the **compare and pull request** button and follow the instructions to open a Pull Request ([*what is a Pull Request?*](https://help.github.com/en/articles/about-pull-requests))
 
-**3**. **Hurray!!!!** You have made your first contribution and we will be merging it soon!
+**4**. **Hurray!!!!** You have made your first contribution and we will be merging it soon!
 Go join a project and start contributing or create your own group project. Don't be shy and enjoy creating things together❕
 
  
