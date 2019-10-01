@@ -7,3 +7,4 @@
 This is a list showing the GitHub usernames of all who have contributed to this open-source project! **Make sure to add yourself following the format below and submit a pull request if you've contributed.**
 
 - [**@UcheSylvester**](https://github.com/UcheSylvester)
+- [**@osumgbachiamaka**](https://github.com/osumgbachiamaka)
